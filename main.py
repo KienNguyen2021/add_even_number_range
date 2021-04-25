@@ -8,3 +8,6 @@ for number in range (1,101):
   if number % 2 == 0 :
    total2 += number
 print(total2)    # result is the same total1 : 2550
+
+for number in range(1,6) : # number will be from 1 to 5
+  print(number)
